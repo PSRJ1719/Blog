@@ -11,7 +11,6 @@ Hi, I'm Gordon! I'm a software developer with a Master's degree in Software Engi
 On this blog, you'll find posts about:
 
 - Tech Trends: Insights into the latest trends in technology, including automation, AI, and software development.
-- Project Updates: Updates and details about my personal and professional projects.
 - Tips and Tricks: Practical tips for improving your coding skills, productivity, and career development.
 
 # How to Navigate
